@@ -1,4 +1,4 @@
-import cartIcon from "../../../public";
+import cartIcon from "../../../src/images";
 
 const Product = (props) => {
   const { image, name, price } = props.product;

@@ -1,5 +1,5 @@
 import Sidebar from "../Sidebar/Sidebar";
-import cartIcon from "../../../public";
+import cartIcon from "../../../src/images";
 
 const Cart = ({ cart, removeAllFromCart, chooseOne }) => {
   // console.log(cart);
