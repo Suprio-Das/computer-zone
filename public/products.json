@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Laptop",
+    "price": 1500,
+    "image": "https://img.freepik.com/free-photo/laptop-device-with-minimalist-monochrome-background_23-2150763335.jpg?t=st=1715967227~exp=1715970827~hmac=84a81b2eaf0b7ce6be8f37efeffe2505bf6c791d2ee8f74dce7613bb841dd068&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Ultrabook",
+    "price": 1200,
+    "image": "https://img.freepik.com/free-photo/laptop-device-with-minimalist-monochrome-background_23-2150763335.jpg?t=st=1715967227~exp=1715970827~hmac=84a81b2eaf0b7ce6be8f37efeffe2505bf6c791d2ee8f74dce7613bb841dd068&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "Desktop PC",
+    "price": 800,
+    "image": "https://img.freepik.com/free-photo/laptop-device-with-minimalist-monochrome-background_23-2150763335.jpg?t=st=1715967227~exp=1715970827~hmac=84a81b2eaf0b7ce6be8f37efeffe2505bf6c791d2ee8f74dce7613bb841dd068&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Workstation",
+    "price": 2000,
+    "image": "https://img.freepik.com/free-photo/open-laptop_144627-12146.jpg?t=st=1715967300~exp=1715970900~hmac=940fea7fb319c221f69a0ae3a32a35a3ad0132c51e4d423f24a35e4fcb836e58&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Convertible Laptop",
+    "price": 1300,
+    "image": "https://img.freepik.com/free-photo/open-laptop_144627-12146.jpg?t=st=1715967300~exp=1715970900~hmac=940fea7fb319c221f69a0ae3a32a35a3ad0132c51e4d423f24a35e4fcb836e58&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Mini PC",
+    "price": 500,
+    "image": "https://img.freepik.com/free-photo/close-up-laptop-keyboard-colorful-neon-illumination-backlit-keyboard_169016-29227.jpg?t=st=1715967364~exp=1715970964~hmac=9016f5c8523052bdfc83d6cf9125dbb8dd03ce2c08086434a5548915b5970a22&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "name": "All-in-One PC",
+    "price": 1100,
+    "image": "https://img.freepik.com/free-photo/open-laptop_144627-12148.jpg?t=st=1715967386~exp=1715970986~hmac=c643b42a1a254c7234cd2d7f62ec7bad860b3b998e8520cc09f0a5ec2407dc43&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "name": "Chromebook",
+    "price": 400,
+    "image": "https://img.freepik.com/free-photo/open-laptop_144627-12148.jpg?t=st=1715967386~exp=1715970986~hmac=c643b42a1a254c7234cd2d7f62ec7bad860b3b998e8520cc09f0a5ec2407dc43&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 9,
+    "name": "Netbook",
+    "price": 300,
+    "image": "https://img.freepik.com/free-photo/business-technology-communication-concept-minimalistic-workspace-with-modern-laptop-computer-with-white-blank-screen_273609-1702.jpg?t=st=1715967500~exp=1715971100~hmac=cbb66ac4c8f5b4a3e08521c34b028213bc95555f8f443528716fc6302c4b4a45&w=996",
+    "quantity": 0
+  },
+  {
+    "id": 10,
+    "name": "Server",
+    "price": 2500,
+    "image": "https://img.freepik.com/free-photo/laptop-with-blank-white-screen-walkway_23-2147924266.jpg?t=st=1715967530~exp=1715971130~hmac=731f128ae66ff1120fa0370e1fffc2fbecf73de8621725d38cbea9c72d29bfcd&w=996",
+    "quantity": 0
+  }
+]
